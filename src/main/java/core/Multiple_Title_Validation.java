@@ -38,7 +38,7 @@ public class Multiple_Title_Validation {
 				System.out.println("Test Case Result: \t" + "FAILED");
 			}
 				
-			dr.quit();
 		}
+		dr.quit();
 	}
 }
